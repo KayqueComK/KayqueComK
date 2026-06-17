@@ -41,8 +41,8 @@ Sou um desenvolvedor focado em criar ferramentas que realmente ajudem as pessoas
 
 <div align="center">
   <!-- Substitua "SEU_USUARIO" pelo seu nome de usuário real do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Krakenpp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krakenpp&layout=compact&theme=dracula" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KayqueComK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueComK&layout=compact&theme=dracula" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ---
@@ -53,7 +53,7 @@ Sou um desenvolvedor focado em criar ferramentas que realmente ajudem as pessoas
   <a href="mailto:kayquealberto@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/kayque-alberto-937a08230" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
