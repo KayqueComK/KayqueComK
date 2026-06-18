@@ -1,4 +1,3 @@
-<!-- Banner animado ou imagem de capa -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Olá,%20eu%20sou%20o%20Kayque!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 <div align="center">
@@ -10,7 +9,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um desenvolvedor focado em criar ferramentas que realmente ajudem as pessoas e facilitem processos. Atualmente, dedico meus estudos a aprofundar minha base técnica em engenharia de software e a construir soluções acessíveis de segurança para microempresas. 
+Sou um desenvolvedor focado em desinvolvimentos WEB para facilitar o dia a dia das pessoas. Atualmente, dedico meus estudos a aprofundar minha base técnica junto da ia para aprimorar minhas habilidades para no futuro ser um Analista de dados.
 
 - 🔭 Atualmente trabalhando no setor de suporte tecnico em uma empresa de sistemas.
 - 🌱 Aprimorando conhecimentos em estruturas de dados (árvores AVL, tabelas hash) e arquitetura de sistemas.
@@ -21,26 +20,25 @@ Sou um desenvolvedor focado em criar ferramentas que realmente ajudem as pessoas
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <!-- Ícones dinâmicos das linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" height="40" alt="SQL logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C# logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" height="40" alt="DB logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45" alt="CSS3 logo" />
 </div>
-
+  
 ---
 
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <!-- Substitua "SEU_USUARIO" pelo seu nome de usuário real do GitHub -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayqueComK&theme=dracula" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueComK&layout=compact&theme=dracula" height="150" alt="Linguagens mais usadas" />
 </div>
