@@ -46,6 +46,14 @@ Sou um desenvolvedor focado em desenvolvimento WEB para facilitar o dia a dia da
 
 ---
 
+## 🐍 Contribuição Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KayqueComK/KayqueComK/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+---
+
 ### 🤝 Como me encontrar
 
 <div align="center">
