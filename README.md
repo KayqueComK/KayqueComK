@@ -40,8 +40,8 @@ Sou um desenvolvedor focado em desenvolvimento WEB para facilitar o dia a dia da
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayqueComK&theme=dracula" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueComK&layout=compact&theme=dracula" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KayqueComK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KayqueComK&layout=compact&theme=dracula&v=1" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ---
