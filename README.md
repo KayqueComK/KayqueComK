@@ -143,11 +143,11 @@ Construção de aplicações baseadas na web focadas na resolução de problemas
 ## 📊 Análise do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KayqueComK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=9370DB" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KayqueComK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=9370DBv=1" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayqueComK&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=9370DB&currStreakLabel=8A2BE2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KayqueComK&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=9370DB&currStreakLabel=8A2BE2v=1" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueComK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueComK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2v=1" alt="Top Languages" />
 </div>
 
 ---
