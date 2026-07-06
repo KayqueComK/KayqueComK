@@ -156,7 +156,7 @@ Construção de aplicações baseadas na web focadas na resolução de problemas
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KayqueComK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=KayqueComK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1" alt="GitHub Trophies" />
   </a>
 </div>
 
