@@ -1,5 +1,7 @@
-<!-- Banner animado ou imagem de capa -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Olá,%20eu%20sou%20o%20Kayque!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+<!-- Banner animado em Pixel Art -->
+<div align="center">
+  <img src="./assets/banner.gif" width="100%" alt="Kayque.dev - Estudante de Sistemas de Informação" />
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -13,6 +15,7 @@
 
 Sou um desenvolvedor focado em desenvolvimento WEB para facilitar o dia a dia das pessoas. Atualmente, dedico meus estudos a aprofundar minha base técnica junto da IA para aprimorar minhas habilidades para, no futuro, ser um Analista de Dados.
 
+- 🎓 Cursando **Sistemas de Informação**.
 - 🔭 Atualmente trabalhando no setor de suporte técnico em uma empresa de sistemas.
 - 🌱 Aprimorando conhecimentos em estruturas de dados (árvores AVL, tabelas hash) e arquitetura de sistemas.
 - 🎯 Buscando sempre equilibrar o raciocínio lógico com interfaces funcionais e agradáveis.
